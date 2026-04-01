@@ -36,29 +36,6 @@ Below is the list of all experiments with their respective titles.
 | 25     | 📊 Write a program to traverse a Tree using Level Order Traversal.                                                                                                                                                                                                                                                                           |
 
 ---
-
-## ✨ Features
-
-* 📌 Well-structured implementations
-* 💡 Covers core Data Structures concepts
-* ⚡ Efficient algorithms
-* 🎯 Beginner-friendly code
-
----
-
-## 🛠️ Language Used
-
-* 💻 C++
-
----
-
-## 🚀 How to Use
-
-```bash
-g++ program.cpp -o output
-./output
-```
-
 ---
 
 ## 🎉 Happy Coding!
